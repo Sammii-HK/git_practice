@@ -1,1 +1,62 @@
+body {
+	background-color: black;
+}
 
+#content {
+	width: auto;
+	max-width: 100%;
+	text-align: center;
+}
+
+h1,
+h2,
+h3,
+p,
+a {
+	font-family: Veranda, Arial, 'Gill Sans';
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 50px;
+}
+
+.download {
+	color: Aquamarine;
+	font-size: 16px;
+	text-align: center;
+	align-content: center;
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+h3 {
+	font-size: 21px;
+	color: gray;
+	font-weight: normal;
+}
+
+img {
+	align-content: center;
+	align-items: center;
+	align-self: center;
+	max-width: 100%;
+}
+
+.copyright {
+	font-family: Veranda, Arial, 'Gill Sans';
+	text-align: right;
+	color: gray;
+}
+
+.center {
+	align-content: center;
+	align-items: center;
+	align-self: center;
+	
+}
